@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /pages/Home
+Allow: /pages/About
+Allow: /pages/Projects
+Allow: /pages/Contact
