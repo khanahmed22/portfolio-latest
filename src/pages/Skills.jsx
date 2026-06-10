@@ -17,7 +17,9 @@ import {
   SiVercel,
   SiNetlify,
   SiVitest,
-  SiVite
+  SiVite,
+  SiDocker,
+  SiRedis
 } from "react-icons/si"
 
 function Skills() {
