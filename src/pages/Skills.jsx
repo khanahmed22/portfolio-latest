@@ -109,7 +109,16 @@ function Skills() {
   <h2 className="font-bold">Neon</h2>
 </div>
 
-          
+            <div className="flex flex-col items-center">
+            
+             <SiDocker size={44}/>
+            <h2 className="font-bold">Docker</h2>
+          </div>
+            <div className="flex flex-col items-center">
+            
+             <SiRedis size={44}/>
+            <h2 className="font-bold">Redis</h2>
+          </div>
         
           <div className="flex flex-col items-center">
             
