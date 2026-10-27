@@ -119,9 +119,9 @@ function Contact() {
           <h1 className="font-bold mb-5">or Let&apos;s Connect on these on Apps</h1>
           <div className="flex items-center justify-center space-x-5">
             <a
-              href="https://twitter.com/khanahmed265"
+              href="https://x.com/khanahmed56"
               target="_blank"
-              aria-label="Link to My Twitter"
+              aria-label="Link to My Twitter/X"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
