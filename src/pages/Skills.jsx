@@ -19,7 +19,9 @@ import {
   SiVitest,
   SiVite,
   SiDocker,
-  SiRedis
+  SiRedis,
+  SiSentry,
+  SiPosthog
 } from "react-icons/si"
 
 function Skills() {
@@ -152,6 +154,20 @@ function Skills() {
             <SiVitest size={44}/>
             <h2 className="font-bold">Vitest</h2>
           </div>
+
+          <div className="flex flex-col items-center">
+            <SiSentry size={44}/>
+            <h2 className="font-bold"> Sentry</h2>
+            
+          </div>
+
+          <div className="flex flex-col items-center">
+            <SiPosthog size={44}/>
+            <h2 className="font-bold"> PostHog</h2>
+            
+          </div>
+
+
 
           
         </div>
